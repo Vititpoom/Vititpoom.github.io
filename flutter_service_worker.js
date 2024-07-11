@@ -25,7 +25,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "910e81dc75c11a9df8dd2f24de8f90bf
 "assets/assets/images/star_w.png": "f8d1898a9d11f0518179b602e31a591d",
 "assets/assets/images/tarot_back.png": "d05ab56bad4b31f1bd25a9073bd25cce",
 "assets/FontManifest.json": "8eeb53a1bbb18f4014432c5e111fe340",
-"assets/fonts/MaterialIcons-Regular.otf": "42c55d7f76b91cf4eef78c24472478a6",
+"assets/fonts/MaterialIcons-Regular.otf": "5c0dc0fa240e0af03080296d3cbb4a16",
 "assets/NOTICES": "a520eb84b8447f88d4a3a25786b3da8b",
 "assets/packages/awesome_snackbar_content/assets/back.svg": "ba1c3aebba280f23f5509bd42dab958d",
 "assets/packages/awesome_snackbar_content/assets/bubbles.svg": "1df6817bf509ee4e615fe821bc6dabd9",
@@ -53,9 +53,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "910e81dc75c11a9df8dd2f24de8f90bf
 "icons/android-chrome-192x192.png": "092468ae79a1f176569f09872d533e09",
 "icons/android-chrome-512x512.png": "697f70407cf1b3d8139758cec5ded7b7",
 "icons/apple-touch-icon.png": "aad69339f8038efaf3771c4639ddd3fc",
-"index.html": "d94c3b76d74c02f2c575db3bfcb61852",
-"/": "d94c3b76d74c02f2c575db3bfcb61852",
-"main.dart.js": "dc57edd7222836398e09239cbe3596a7",
+"index.html": "04fded23e43c35d3554c2fa48cab3004",
+"/": "04fded23e43c35d3554c2fa48cab3004",
+"main.dart.js": "dfcf2af58742b61879574378d1828fb2",
 "manifest.json": "8d3be58572398181bdc2cb7094e8dd4b",
 "version.json": "92ab5b480774132d501453dc99721a55"};
 // The application shell files that are downloaded before a service worker can
