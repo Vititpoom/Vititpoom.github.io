@@ -101569,7 +101569,7 @@ r=A.bp(20)
 q=this.b.a
 if(q>1302)q=250
 else if(q>975)q=300
-else q=q>500?330:150
+else q=q>499?330:230
 p=this.c
 o=J.W(p)
 if(o.h(p,b).c==="")n=B.Pv
